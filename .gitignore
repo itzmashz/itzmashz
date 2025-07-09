@@ -1,4 +1,4 @@
 djangosh_venv/
-*/**/migrations/
 */**/*.pyc
+.python-version
 
