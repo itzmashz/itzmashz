@@ -1,0 +1,4 @@
+djangosh_venv/
+*/**/migrations/
+*/**/*.pyc
+
