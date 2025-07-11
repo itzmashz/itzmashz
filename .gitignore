@@ -1,4 +1,7 @@
 djangosh_venv/
 */**/*.pyc
 .python-version
+djangosh/logs/*
+testapp/logs/*
+
 
